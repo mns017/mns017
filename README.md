@@ -25,17 +25,7 @@ Hi! I'm **Manasi Lanke**, a Mechanical Engineering student at **MNNIT Allahabad*
 - **Soft Skills**: Communication, Team Collaboration  
 - **Languages Known**: English, Hindi, Marathi
 
----
 
-### 🚀 Projects
-
-#### 🔹 [Cloth Store Annual Report](https://github.com/manasilanke04/Cloth-Store-Annual-report)
-- Built data dashboards using Excel pivot charts & slicers
-- Analyzed store sales, inventory, and performance trends
-
-#### 🔹 [Employee Exodus Insights](https://github.com/manasilanke04/Employee-Exodus-Insight)
-- Created an end-to-end Power BI dashboard to understand attrition patterns
-- ETL operations with Power Query to identify key employee exit factors
 
 ---
 
