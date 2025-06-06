@@ -1,75 +1,88 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41FF25&background=000000&width=500&lines=Hi%2C+I'm+Manasi+Lanke;Marketing+%7C+Data+Analytics+Enthusiast;Power+BI+%7C+Excel+%7C+Python+Lover;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
-<h1 align="center">
-  Hi there, <p align="center">
-  
-</p>
-
-</h1>
-
 <p align="center">
-  <b>Data-Driven Explorer | Marketing Enthusiast | Power BI & Excel Lover</b> <br>
-  <a href="mailto:manasilanke44@gmail.com">📧 Mail me</a> |
-  <a href="https://www.linkedin.com/in/manasi-lanke-988a1a262/">🔗 LinkedIn</a> |
-  <a href="https://github.com/manasilanke04">💻 GitHub</a>
+  <a href="https://github.com/manasilanke04">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41FF25&background=000000&width=500&lines=Hi%2C+I'm+Manasi+Lanke;Marketing+%7C+Data+Analytics+Enthusiast;Power+BI+%7C+Excel+%7C+Python+Lover;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 💡 About Me
+### 👩‍💻 About Me
 
-🎓 I'm a Mechanical Engineering student at **MNNIT Allahabad** with a keen interest in **Data Analytics, Visualization**, and **Digital Marketing**.
+Hi! I'm **Manasi Lanke**, a Mechanical Engineering student at **MNNIT Allahabad** and a passionate learner in the fields of **Marketing**, **Data Analytics**, and **Business Intelligence**.
 
-🚀 I'm passionate about:
-- Analyzing data to uncover trends and insights 📊
-- Building interactive dashboards using **Power BI & Excel**
-- Enhancing user experience through frontend development (HTML/CSS/Bootstrap)
-- Creating growth strategies using marketing analytics
+🔍 I love turning data into decisions through:
+- 📊 Interactive dashboards (Power BI, Excel)
+- 📈 Data-driven marketing campaigns
+- 🛠️ Insightful visualizations and storytelling
 
 ---
 
-
-
-## 🔧 Skills & Tools
+### 🛠️ Skills & Technologies
 
 - **Languages**: HTML, CSS, Bootstrap, Python, SQL, JavaScript  
-- **Tools**: Power BI, Excel, VS Code, Jupyter Notebook  
-- **Libraries**: Pandas, NumPy  
-- **Soft Skills**: Team Collaboration, Communication  
-- **Languages**: English, Hindi, Marathi
+- **Analytics & Tools**: Power BI, Excel, Jupyter Notebook, Visual Studio Code, GitHub  
+- **Libraries**: NumPy, Pandas  
+- **Soft Skills**: Communication, Team Collaboration  
+- **Languages Known**: English, Hindi, Marathi
 
 ---
 
-## 🧠 Experience
+### 🚀 Projects
 
-### 💼 MyPrega | Marketing & Consultancy Intern
-*Oct 2024 – Dec 2024 (Remote)*  
-- Led targeted digital campaigns
-- Created content aligned with audience needs
-- Tracked KPIs for growth strategies
+#### 🔹 [Cloth Store Annual Report](https://github.com/manasilanke04/Cloth-Store-Annual-report)
+- Built data dashboards using Excel pivot charts & slicers
+- Analyzed store sales, inventory, and performance trends
 
----
-
-## 🏅 Certifications
-- 🎓 **Fundamentals of Digital Marketing** by Google (Feb 2024)
+#### 🔹 [Employee Exodus Insights](https://github.com/manasilanke04/Employee-Exodus-Insight)
+- Created an end-to-end Power BI dashboard to understand attrition patterns
+- ETL operations with Power Query to identify key employee exit factors
 
 ---
 
-## 📌 Leadership
+### 💼 Experience
 
-- 🚁 Co-ordinator, **Aeromodelling Club**, MNNIT
-- 📣 PR Team Member, **Culrav-Avishkar**, MNNIT
+#### 📌 **Marketing & Consultancy Intern @ MyPrega** *(Remote | Oct–Dec 2024)*
+- Led KPI-driven campaigns for expecting mothers  
+- Created tailored content strategies  
+- Analyzed metrics and helped shape product feedback strategy
+
+---
+
+### 📚 Education
+
+- **Motilal Nehru National Institute of Technology Allahabad**  
+  *B.Tech. Mechanical Engineering (2022–2026)*  
+  CPI: 6.83
+
+- **Chaitanyas International School**, 12th – 79.67%  
+- **Rayat Shikshan Sanstha**, 10th – 95.80%
+
+---
+
+### 🎯 Positions of Responsibility
+
+- **Coordinator**, *Aeromodelling Club, MNNIT*  
+  Led hovercraft and flight controller development projects
+
+- **PR Team**, *Culrav-Avishkar, MNNIT*  
+  Managed event promotion and brand image
+
+---
+
+### 📜 Certifications
+
+- 🥇 Google’s **Fundamentals of Digital Marketing** (Feb 2024)
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [manasilanke44@gmail.com](mailto:manasilanke44@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/manasi-lanke-988a1a262](https://www.linkedin.com/in/manasi-lanke-988a1a262)  
+- 💻 GitHub: [github.com/manasilanke04](https://github.com/manasilanke04)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manasilanke04&label=Profile%20views&color=0e75b6&style=flat" alt="manasilanke04" />
+  <img src="https://komarev.com/ghpvc/?username=manasilanke04&label=Profile%20views&color=brightgreen&style=flat" alt="manasilanke04" />
 </p>
-
-<style>
-blink {
-  animation: blinker 1s linear infinite;
-}
-@keyframes blinker {
-  50% { opacity: 0; }
-}
-</style>
