@@ -17,8 +17,7 @@ From performing **Finite Element Analysis of Bicycle Frames** in ANSYS 🛠️ t
 - 🧪 **ETL Projects** using Python, Pandas, and Matplotlib
 - 📊 **Sales Trend Analysis** and Visualization
 - 💻 **SQL & T-SQL** for data querying and dashboards
-- ✈️ **Cabin Crew Career Exploration** (yes, I dream big and fly higher!)
-- 📱 **Healthcare startup internship** focused on pregnancy care solutions
+
 
 ---
 
