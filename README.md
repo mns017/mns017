@@ -1,11 +1,4 @@
-<h1 align="center">MANASI LANKE</h1>
-<h3 align="center">Aspiring Data Analyst | Mechanical Engineer | ETL Explorer</h3>
-  __  __                       _       _             
- |  \/  |   __ _   _ __     __| |   __| |   __ _   __ _   ___
- | |\/| |  / _` | | '_ \   / _` |  / _` |  / _` | / _` | / _ \
- | |  | | | (_| | | | | | | (_| | | (_| | | (_| || (_| ||  __/
- |_|  |_|  \__,_| |_| |_|  \__,_|  \__,_|  \__,_| \__, | \___|
-                                                  |___/       
+
 <h1 align="center">MANASI LANKE</h1>
 <h3 align="center">Aspiring Data Analyst | Mechanical Engineer | ETL Explorer</h3>
 
