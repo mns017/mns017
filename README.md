@@ -1,6 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41FF25&background=000000&width=500&lines=Hi%2C+I'm+Manasi+Lanke;Marketing+%7C+Data+Analytics+Enthusiast;Power+BI+%7C+Excel+%7C+Python+Lover;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 <h1 align="center">
   Hi there, <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41FF25&background=000000&width=500&lines=Hi%2C+I'm+Manasi+Lanke;Marketing+%7C+Data+Analytics+Enthusiast;Power+BI+%7C+Excel+%7C+Python+Lover;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+  
 </p>
 
 </h1>
