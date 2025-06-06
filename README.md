@@ -10,18 +10,7 @@
 
 ---
 
-### 🚀 Projects
 
-- 🔧 [Finite Element Analysis of a Bicycle Frame](#)  
-  Performed using **ANSYS Workbench** – analyzed stress, strain, and deformation
-
-- 🛒 [Amazon Sales ETL Analysis](#)  
-  Modular Python ETL pipeline to extract, clean, and analyze Amazon sales trends
-
-- 🧠 **Digital Twin Seminar**  
-  Delivered a technical seminar on the concept and applications of Digital Twin Technology
-
----
 
 ### 🛠️ Skills
 
@@ -32,12 +21,7 @@
 
 ---
 
-### 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/your-link](#)
-- 📧 Email: your.email@example.com
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mns017&show_icons=true&theme=default" alt="GitHub Stats" />
