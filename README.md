@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Manasi Lanke</h1>
-<h3 align="center">Mechanical Engineering | Tech Explorer | Data Enthusiast</h3>
+<h1 align="center">MANASI LANKE</h1>
+<h3 align="center">Aspiring Data Analyst | Mechanical Engineer | ETL Explorer</h3>
+  __  __                       _       _             
+ |  \/  |   __ _   _ __     __| |   __| |   __ _   __ _   ___
+ | |\/| |  / _` | | '_ \   / _` |  / _` |  / _` | / _` | / _ \
+ | |  | | | (_| | | | | | | (_| | | (_| | | (_| || (_| ||  __/
+ |_|  |_|  \__,_| |_| |_|  \__,_|  \__,_|  \__,_| \__, | \___|
+                                                  |___/       
+<h1 align="center">MANASI LANKE</h1>
+<h3 align="center">Aspiring Data Analyst | Mechanical Engineer | ETL Explorer</h3>
 
 ---
 
@@ -12,13 +20,13 @@
 ### 🚀 Projects
 
 - 🔧 [Finite Element Analysis of a Bicycle Frame](#)  
-  Performed using **ANSYS Workbench** – analyzed stress, strain, and deformation on a 3D bike frame
+  Performed using **ANSYS Workbench** – analyzed stress, strain, and deformation
 
 - 🛒 [Amazon Sales ETL Analysis](#)  
-  Built a **modular Python ETL pipeline** to extract, clean, and analyze Amazon sales trends (month-wise, year-wise)
+  Modular Python ETL pipeline to extract, clean, and analyze Amazon sales trends
 
-- 🧠 **Digital Twin Seminar Presentation**  
-  Delivered a 30-minute talk on **Digital Twin Technology** and its role in modern mechanical engineering
+- 🧠 **Digital Twin Seminar**  
+  Delivered a technical seminar on the concept and applications of Digital Twin Technology
 
 ---
 
@@ -31,14 +39,13 @@
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact
 
-- LinkedIn: [linkedin.com/in/your-link](#)
-- Email: mns017@example.com *(replace with actual email)*
+- 💼 LinkedIn: [linkedin.com/in/your-link](#)
+- 📧 Email: your.email@example.com
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mns017&show_icons=true&theme=default" alt="mns017 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mns017&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
-
