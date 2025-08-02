@@ -5,25 +5,58 @@
 </p>
 ---
 
-### 👩‍💻 About Me
+### 👋 About Me
 
-Hi! I'm **Manasi Lanke**, a Mechanical Engineering student at **MNNIT Allahabad** and a passionate learner in the fields of **Marketing**, **Data Analytics**, and **Business Intelligence**.
+Hi there! [cite_start]I'm a passionate B.Tech - Mechanical Engineering student from **Motilal Nehru National Institute of Technology Allahabad, Prayagraj**[cite: 2, 11].
 
-🔍 I love turning data into decisions through:
-- 📊 Interactive dashboards (Power BI, Excel)
-- 📈 Data-driven marketing campaigns
-- 🛠️ Insightful visualizations and storytelling
+[cite_start]I'm an **Aspiring Data and Analytics Professional** [cite: 8] with a keen interest in transforming complex data into actionable insights. [cite_start]My journey is driven by a commitment to integrity, excellence, and value-driven decision-making[cite: 9].
+
+I specialize in:
+* [cite_start]📊 **Building interactive dashboards** and automating reports [cite: 8, 24, 29]
+* [cite_start]📈 **Delivering key insights** for risk and compliance support [cite: 8]
+* [cite_start]💡 **Analyzing data** to optimize performance and inform strategic decisions, as demonstrated in leading data-driven marketing campaigns [cite: 14, 16]
+* [cite_start]🗣️ **Effective stakeholder engagement** and compelling data storytelling [cite: 9]
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ My Toolkit & Expertise
 
-- **Languages**: HTML, CSS, Bootstrap, Python, SQL, JavaScript  
-- **Analytics & Tools**: Power BI, Excel, Jupyter Notebook, Visual Studio Code, GitHub  
-- **Libraries**: NumPy, Pandas  
-- **Soft Skills**: Communication, Team Collaboration  
-- **Languages Known**: English, Hindi, Marathi
+Here's a glimpse into the tools and technologies I work with:
 
+* **Programming Languages**:
+    * [cite_start]Python [cite: 33]
+    * [cite_start]SQL [cite: 33]
+    * [cite_start]HTML, CSS, Bootstrap [cite: 33]
+    * [cite_start]JavaScript [cite: 33]
+
+* **Analytics & Visualization**:
+    * [cite_start]Power BI [cite: 34]
+    * [cite_start]Microsoft Excel [cite: 34]
+    * [cite_start]Jupyter Notebook [cite: 34]
+
+* **Development & Version Control**:
+    * [cite_start]Visual Studio [cite: 34]
+    * [cite_start]VS Code [cite: 34]
+    * [cite_start]GitHub [cite: 3]
+
+* **Libraries & Frameworks**:
+    * [cite_start]Numpy [cite: 36]
+    * [cite_start]Pandas [cite: 36]
+
+* **CS Fundamentals**:
+    * [cite_start]Database Management Systems [cite: 35]
+    * [cite_start]Object-Oriented Programming [cite: 35]
+
+* **Soft Skills**:
+    * [cite_start]Communication [cite: 37]
+    * [cite_start]Team Collaboration [cite: 37]
+
+* **Languages Known**:
+    * English
+    * Hindi
+    * Marathi
+
+---
 
 
 ---
