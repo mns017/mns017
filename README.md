@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/manasilanke04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=ADD8E6&background=000000&width=500&lines=Hello%2C+I'm+Manasi+Lanke;Data-Driven+Marketing+Specialist;Passionate+About+Analytics;Tools%3A+Power+BI%2C+Excel%2C+Python;Discover+My+Projects!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=90EE90&background=000000&width=500&lines=Manasi+Lanke;Marketing+%7C+Data+Analytics;Power+BI%2FExcel%2FPython;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </p>
 ---
