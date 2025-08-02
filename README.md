@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/manasilanke04">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=2500&pause=800&color=4E71FF&background=000000&width=800&lines=Hi%2C+I'm+Manasi+Lanke;Aspiring+Business+Analyst+%7C+Data+Enthusiast;Power+BI+%7C+Excel+%7C+Python+%7C+SQL;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=2500&pause=800&color=FFB4A2&background=000000&width=800&lines=Hi%2C+I'm+Manasi+Lanke;Aspiring+Business+Analyst+%7C+Data+Enthusiast;Power+BI+%7C+Excel+%7C+Python+%7C+SQL;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
 ---
