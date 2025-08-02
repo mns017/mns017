@@ -56,5 +56,5 @@ Here's a glimpse into the tools and technologies I work with:
     * Hindi
     * Marathi
 
----name=manasilanke04&label=Profile%20views&color=brightgreen&style=flat" alt="manasilanke04" />
+
 </p>
